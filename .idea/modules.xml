@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/UMLEditor.iml" filepath="$PROJECT_DIR$/.idea/modules/UMLEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/umleditor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/umleditor_main.iml" group="UMLEditor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/umleditor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/umleditor_test.iml" group="UMLEditor" />
     </modules>
   </component>
 </project>
